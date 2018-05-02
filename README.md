@@ -1,4 +1,4 @@
 # blog
 personal notes
 update
-[test](qq895117375/blog/issue/1)
+[test](https://github.com/qq895117375/blog/issues/1)
